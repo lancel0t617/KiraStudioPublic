@@ -17,7 +17,9 @@ nav:
 - Change Log:
   - "All Version History": changelog.md
 extra_css:
-    - css/extra.css    
+  - css/extra.css    
+extra_javascript:
+  - javascript/extra.js
 theme: 
   name: slate
   color_mode: dark
