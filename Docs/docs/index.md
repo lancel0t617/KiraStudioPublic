@@ -14,6 +14,7 @@ Welcome to the KiraStudio documentation. Please use the __User Guide__ menu abov
 * [Editing Samples](samples.md)
 * [Editing WaveTables](wavetables.md)
 * [Generator Reference](generators.md)
+* [Effects Reference](effects.md)
 * [Acknowledgements & Licenses](thanks.md)
 * [Troubleshooting](troubleshooting.md)
 * [Change Log](changelog.md)

@@ -64,7 +64,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ### OGG/Vorbis
 
-The [Vorbis](https://xiph.org/vorbis/) audio compression format and its OGG container format requires no introduction. The app uses it for both import and export. It is released under the BSD-3-Clause license.
+The [Vorbis](https://xiph.org/vorbis/) audio compression format and its OGG container format require no introduction. The app uses it for both import and export. It is released under the BSD-3-Clause license.
 
 ```text
 Copyright (c) 2002-2020 Xiph.org Foundation
@@ -155,6 +155,18 @@ Thank you!
 -~Chris
 ```
 
+### Freeverb
+
+Freeverb is public domain reverb implementation from the early 2000s. Developed by "Jezar at Dreampoint", it is a great, easy to use, reverb implementation.
+
+I do not think it has an official website anymore, this [repo](https://github.com/sinshu/freeverb) hosts a copy of it. 
+
+Here is a snipped of the original license, which can be read on the repo linked above.
+
+```text
+Feel free to use the source code for Freeverb in any of your own products, whether they are also available for free, or even if they are commercial - I really don't mind. You may do with the code whatever you wish. 
+```
+
 ## Other Projects
 
 I want to acknowledge some other projects that, while not providing code or libraries directly, were either inspirations or useful tools during development.
@@ -176,7 +188,7 @@ While KiraStudio is closed source at the moment, the code is an evolution of my 
 The app comes with a few demo songs. Most of them are covers, please go support both the original composers and the cover artists.
 
 - Deltarune - Ruder Buster (by [Toby Fox](https://x.com/tobyfox), cover by [How2Bboss](https://www.youtube.com/@How2Bboss))
-- The Legend of Zero Force (by [Zabutom](https://www.youtube.com/@zabutom), cover by [How2Bboss](https://www.youtube.com/@How2Bboss))
+- The Legend of Zeta Force - Zeta Force (by [Zabutom](https://www.youtube.com/@zabutom), cover by [How2Bboss](https://www.youtube.com/@How2Bboss))
 - Theme of Mega Man - Battle Network 6 (by Yoshino Aoki, cover by Omega Zero)
 
 Some of these demo songs require external SoundFonts, please visit [this page](soundfonts.md) for direct download links.
