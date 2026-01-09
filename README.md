@@ -1,1 +1,0 @@
-# KiraStudio Russian Localization
