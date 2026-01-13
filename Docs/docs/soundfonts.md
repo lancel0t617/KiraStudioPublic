@@ -4,4 +4,4 @@ This page provides direct download links to the SoundFonts required to listen to
 
 ## Download Links
 
-- [SGM V2.01](https://archive.org/download/SGM-V2.01) : Required for the "Ruder Buster" demo song.
+- [SGM V2.01](https://archive.org/download/SGM-V2.01) : Required for the "Ruder Buster" and "Cold Brew" demo songs.
